@@ -1,3 +1,5 @@
+I forked this from a previous github username of mine. It showcases my first solo project. I've come a long way, but I'm fond of this project and where I started. 
+
 ## Demo Now Deployed
 
 <a href="http://runfreerunme.herokuapp.com">RunFree, RunMe Demo</a>

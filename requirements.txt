@@ -1,7 +1,7 @@
-Flask==0.10.1
+Flask==0.12.3
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
-requests==2.5.1
-SQLAlchemy==0.9.8
-Werkzeug==0.10.1
+requests==2.20
+SQLAlchemy==1.2.18
+Werkzeug==0.15.3
